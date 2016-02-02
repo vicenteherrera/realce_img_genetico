@@ -2,9 +2,10 @@ Realce de imágenes en escala de grises mediante algoritmos genéticos usando la
 =======================================================================================
 
 Realizado para la asignatura de Procesamiento de Imágenes Digitales de 4º curso
-de Ingeniería Informática.
+de Ingeniería Informática en la Universidad de Sevilla.
 
-Por Vicente Herrera, Javier Gallego y Javier Rodriguez.
+Por Vicente Herrera, Javier Gallego y Javier Rodriguez durante el curso
+2003-2004 con la profesora Rocío González.
 
 Introducción
 ------------
