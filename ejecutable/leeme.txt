@@ -1,0 +1,4 @@
+Es posible que el programa necesite alguno de los dlls ubicados en
+la carpeta 'dll'.
+
+Si no tiene alguno, copielos en la carpeta 'system32' del windows.

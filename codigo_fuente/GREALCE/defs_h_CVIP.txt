@@ -1,0 +1,12 @@
+//#define CBuilder
+#define CVIP_tools
+
+
+
+
+#ifdef CBuilder
+#define GRF_EXT ".bmp"
+#else
+#define GRF_EXT ".jpg"
+#define GRF_FORMAT JPG
+#endif

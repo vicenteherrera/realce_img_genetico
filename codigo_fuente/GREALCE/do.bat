@@ -1,0 +1,1 @@
+grealce estomago_mini.jpg 60 100 0 0 0.05 0.05 0.02 0.02 0.007 0.007

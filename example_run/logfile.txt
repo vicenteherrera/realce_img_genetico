@@ -1,0 +1,62 @@
+Leyendo imagen 'C:\pid\miyagui\3.jpg'
+Leida imagen 45 filas y 52 columnas
+Cromosoma original ocupa 2392 bytes
+Transformada imagen en torig
+Inicializando la población de 60 cromosomas... 
+0123456789Memoria utilizada para la población: 143528 bytes
+Escribiendo fichero log
+--Iteración 1   mejor mse: 18819.210684, peor mse: 20560.838889
+Escribiendo fichero log
+--Iteración 3 
+--Iteración 56 
+--Iteración 109 
+--Iteración 162 
+--Iteración 215 
+Quedan 88.023256 segundos para terminar (1.467054 minutos)
+Velocidad media: 43.000000 iteraciones/segundo
+--Iteración 270 
+--Iteración 325 
+--Iteración 379 
+--Iteración 401   mejor mse: 13204.306838, peor mse: 15312.524786
+Escribiendo fichero log
+--Iteración 430 
+--Iteración 485 
+--Iteración 539 
+--Iteración 594 
+--Iteración 646 
+--Iteración 700 
+--Iteración 754 
+--Iteración 801   mejor mse: 8073.467094, peor mse: 9973.979915
+Escribiendo fichero log
+--Iteración 805 
+--Iteración 857 
+--Iteración 911 
+--Iteración 964 
+--Iteración 1018 
+--Iteración 1070 
+--Iteración 1123 
+--Iteración 1175 
+--Iteración 1201   mejor mse: 6439.069658, peor mse: 7382.242735
+Escribiendo fichero log
+--Iteración 1227 
+--Iteración 1279 
+--Iteración 1331 
+--Iteración 1384 
+--Iteración 1437 
+--Iteración 1489 
+--Iteración 1541 
+--Iteración 1594 
+--Iteración 1601   mejor mse: 5912.614530, peor mse: 6988.409402
+Escribiendo fichero log
+--Iteración 1643 
+--Iteración 1693 
+--Iteración 1738 
+--Iteración 1790 
+--Iteración 1791 
+--Iteración 1805 
+--Iteración 1857 
+--Iteración 1905 
+--Iteración 1956 
+--Iteración 2001   mejor mse: 5323.063248, peor mse: 7131.274786
+Escribiendo fichero log
+--Iteración 2005 

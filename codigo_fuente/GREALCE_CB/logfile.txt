@@ -1,0 +1,15 @@
+Leyendo imagen 'prueba.jpg'
+Leida imagen 25 filas y 25 columnas
+Cromosoma original ocupa 677 bytes
+Transformada imagen en torig
+Inicializando la población de 60 cromosomas... 
+0123456789Memoria utilizada para la población: 40628 bytes
+Escribiendo fichero log
+--Iteración 1   mejor mse: 10127.009600, peor mse: 14308.764800
+Escribiendo fichero log
+--Iteración 28 
+--Iteración 59 
+--Iteración 101   mejor mse: 5991.603200, peor mse: 8405.739200
+Escribiendo fichero log
+--Iteración 103 
+--Iteración 152 
