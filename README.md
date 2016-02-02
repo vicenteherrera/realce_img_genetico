@@ -53,7 +53,8 @@ Ejemplo de ejecución
 --------------------
 
 Puedes comprobar una ejecución del programa en [esta página de resultados
-generada](<example_run/index.htm>) por el mismo.
+generada](<http://htmlpreview.github.io/?https://github.com/vicenteherrera/realce_img_genetico/blob/master/example_run/index.htm>)
+por el mismo.
 
 Evaluación
 ----------
