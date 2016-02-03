@@ -28,8 +28,8 @@ enlace.](<presentacion/PresenttabrajoPID.pdf>)
 Características del desarrollo
 ------------------------------
 
-Para ello se ha implementado un algoritmo genético clásico en **C++**, mediante
-**Visual Studio**, sin emplear ninguna librería adicional (todo el código
+Para ello se ha implementado un algoritmo genético clásico en **C** puro, mediante
+**Visual Studio v6**, sin emplear ninguna librería adicional (todo el código
 construido es de creación propia), como un ejecutable de linea de comandos.
 Todos los datos utilizados utilizan **asignación dinámica de memoria y
 punteros**, permitiendo aumentar indefinidamente la complejidad del problema
